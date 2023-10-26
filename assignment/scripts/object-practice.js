@@ -56,3 +56,6 @@ console.log('I just got a new pair of shoes. My new shoe count is', me.shoeCount
 
 me.favColor = 'purple';
 console.log('My favorite color is', me.favColor + '.');
+
+console.log(`Let's take another look:`);
+console.log(me)
